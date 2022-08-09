@@ -7,7 +7,7 @@ int c = Convert.ToInt32(Console.ReadLine());
 if ((a > b) & (a > c))
 {
     Console.WriteLine("Наибольшее значение у переменной a: " + a);
-} 
+}
 else if ((b > a) & (b > c))
 {
     Console.WriteLine("Наибольшее значение у переменной b: " + b);
